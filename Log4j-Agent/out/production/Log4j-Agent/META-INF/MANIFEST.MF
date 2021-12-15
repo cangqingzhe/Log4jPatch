@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: AttachAgent
+Class-Path: tools.jar javassist-3.23.2-GA.jar
+Agent-Class: Log4jAgent
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
