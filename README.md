@@ -13,3 +13,4 @@
 运行 java -jar Log4j-Agent.jar 进程ID  添加Agent，注入成功会返回Patch Success
 ![image](https://user-images.githubusercontent.com/32150850/146130673-eefec3a3-1405-4de7-a241-519aff3c452c.png)
 修复成功后再去触发，会返回Warning JNDI
+![image](https://user-images.githubusercontent.com/32150850/146131535-4d7a8d31-61d1-4a67-ac92-da60b5ccaeee.png)
